@@ -1,3 +1,11 @@
-- 👋 Hi, I’m Nihar Halder. I'm a Software Engineer. 
-- 👀 I’m interested in node, react, vue, next js, php, laravel, codeiginter, mysql 
-- 🌱 I’m currently learning python and Machile Learning
+# SKILLS
+AWS Serverless Architecture | Microservices |
+TypeScript | Node.js | Go | React | Next.js |
+Express.js | REST APIs | AWS Lambda | API Gateway |
+DynamoDB | Amazon Cognito | AWS DMS | IAM |
+Secrets Manager | EventBridge | CloudWatch | VPC |
+S3 | SNS | SES | MongoDB | MySQL | Firebase | Java
+| PHP | Laravel | CodeIgniter | Jest | Azure Pipelines |
+CloudFormation | Git | CI/CD | Database Design |
+Data Migration | JWT | Role-Based Access Control |
+AI-Assisted Software Development
