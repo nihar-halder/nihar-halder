@@ -1,11 +1,8 @@
-# SKILLS
-AWS Serverless Architecture | Microservices |
-TypeScript | Node.js | Go | React | Next.js |
-Express.js | REST APIs | AWS Lambda | API Gateway |
-DynamoDB | Amazon Cognito | AWS DMS | IAM |
-Secrets Manager | EventBridge | CloudWatch | VPC |
-S3 | SNS | SES | MongoDB | MySQL | Firebase | Java
-| PHP | Laravel | CodeIgniter | Jest | Azure Pipelines |
-CloudFormation | Git | CI/CD | Database Design |
-Data Migration | JWT | Role-Based Access Control |
-AI-Assisted Software Development
+# Technical Skills
+**Cloud & Serverless :** AWS Lambda, API Gateway, DynamoDB, Cognito, IAM, AWS DMS, EventBridge, CloudWatch, VPC, S3, SNS, SES, Secrets Manager
+**Backend:** TypeScript, Node.js, Go, Express.js, REST APIs, Microservices, Java, PHP, Laravel, CodeIgniter
+**Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS
+**Databases:** DynamoDB, MySQL, MongoDB, Firebase, Database Design, Data Migration
+**DevOps & Quality:** Azure Pipelines, AWS CloudFormation, CI/CD, Git, Jest, JUnit, Cobertura
+**Security & Architecture:** JWT, RBAC, API Security, Multi-Tenant Architecture, Serverless Architecture
+**Engineering Practices:** Code Review, Technical Documentation, Requirement Analysis, AI-Assisted Development
